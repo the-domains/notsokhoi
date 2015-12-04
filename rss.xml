@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[notsokhoi]]></title>
         <description><![CDATA[notsokhoi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/notsokhoi/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Dec 2015 21:26:19 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 04 Dec 2015 21:26:54 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/notsokhoi/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Apartment Living with Bicycles]]></title>
+            <description><![CDATA[<article><h1>Apartment Living with Bicycles</h1><p>When you don't have access to a hose, you can still get a pressurized clean outside with a handheld sprayer. Both this Zoro sprayer ($30) and this RL Flo-Master ($18) are tried and tested by our staff. If you're stuck inside, just throw your bike in the shower and clean it off there.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/81b7e5b7b014719ef33a450b7a19658147cf5af4.jpg"></article>]]></description>
+            <link>http://www.bicycling.com/maintenance/apartment-living-bicycles?adbid=584581773813612545&amp;adbpl=tw&amp;adbpr=17900130&amp;cid=socNews_20150407_43383226</link>
+            <guid isPermaLink="false">7f0aad63-8928-40c5-9c16-385311dc102a</guid>
+            <pubDate>Fri, 04 Dec 2015 21:26:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[H2O]]></title>
             <description><![CDATA[<article><h1>H2O</h1><p>The first ever fully seam sealed waterproof SPD compatible Sneaker. The best choice for rain soaked commutes or trail rides.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83fb87478b9fadb7bd9ac1334bd002a49898c912.jpg"></article>]]></description>
