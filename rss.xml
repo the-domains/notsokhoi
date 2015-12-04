@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[notsokhoi]]></title>
+        <description><![CDATA[notsokhoi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 04 Dec 2015 21:26:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[H2O]]></title>
+            <description><![CDATA[<article><h1>H2O</h1><p>The first ever fully seam sealed waterproof SPD compatible Sneaker. The best choice for rain soaked commutes or trail rides.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83fb87478b9fadb7bd9ac1334bd002a49898c912.jpg"></article>]]></description>
+            <link>http://dzrshoes.com/collections/mens/products/h2o</link>
+            <guid isPermaLink="false">7a13a1c1-0615-498c-a2e9-082af33c0e35</guid>
+            <pubDate>Fri, 04 Dec 2015 21:26:10 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
