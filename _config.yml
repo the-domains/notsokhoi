@@ -1,7 +1,7 @@
 name: notsokhoi
 favicon: null
-layout_spectrum: 0.9734877191949636
-typography_spectrum: 0.6708519691601396
+layout_spectrum: 1
+typography_spectrum: 0.64247
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#0f0000'
+    - '#302130'
+    - '#ffffe5'
+    - '#c4b3ad'
+    - '#8b8b90'
   brandStrength: 0.4832880462054163
   lightness: 0.09610698861069977
   saturation: 0.16737888869829476
-  rhythmicContrast: 0.4456340866163373
+  rhythmicContrast: 0.5
 purpose: []
